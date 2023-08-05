@@ -1,0 +1,18 @@
+.mathDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.div_inp {
+    display: flex;
+    gap: 30px;
+}
+.div_btn {
+    display: flex;
+    gap: 20px;
+}
+.UsersPage {
+    width: 400px;
+}
